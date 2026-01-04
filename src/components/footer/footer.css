@@ -1,0 +1,59 @@
+.footer_container h2 {
+  font-family: "Cinzel Decorative";
+}
+.footer_container ul li button a svg {
+  width: 25px;
+  height: 25px;
+}
+.part_two img {
+  width: 100px;
+  height: 100px;
+}
+.footer_container input {
+  outline: none;
+  caret-color: #7b7b5b;
+  color: #7b7b5b;
+  font-weight: 500;
+}
+.footer_container input::placeholder {
+  color: #7b7b5b;
+  font-weight: 700;
+  font-size: 12px;
+  font-family: "Cinzel Decorative";
+}
+@media (max-width: 310px) {
+  .part_two img {
+    width: 65px;
+    height: 65px;
+  }
+  .part_three h2 {
+    font-size: 22px;
+  }
+  .signIn-p {
+    font-size: 10px;
+  }
+  .part_four span {
+    font-size: 8px;
+  }
+}
+@media (min-width: 311px) and (max-width: 550px) {
+  .part_two img {
+    width: 80px;
+    height: 80px;
+  }
+}
+@media (min-width: 301px) and (max-width: 640px) {
+  .part_four span {
+    font-size: 9px;
+  }
+}
+@media (min-width: 641px) and (max-width: 767px) {
+  .part_four span {
+    font-size: 12px;
+  }
+}
+@media (min-width: 768px) {
+  .part_four span {
+    font-size: 15px;
+  }
+}

@@ -1,0 +1,64 @@
+.header_container nav ul li {
+  font-family: "Cinzel Decorative";
+  font-weight: bold;
+  text-align: center;
+}
+.hide-nav {
+  transform: translateX(100%);
+  -webkit-transform: translateX(100%);
+  -moz-transform: translateX(100%);
+  -ms-transform: translateX(100%);
+  -o-transform: translateX(100%);
+}
+hr {
+  width: 60% !important;
+  margin: auto;
+}
+.header_container svg {
+  width: 20px;
+  height: 20px;
+  color: #fff;
+}
+.close-icon svg {
+  color: #7b7b5b;
+}
+nav a.active {
+  color: #141403;
+  text-decoration: underline;
+}
+.mobile_nav {
+  z-index: 2000;
+}
+.mobile_nav::-webkit-scrollbar-thumb {
+  background: #949670;
+}
+@media (max-width: 310px) {
+  .hotel-Name {
+    font-size: 13px;
+  }
+  .social_media span {
+    font-size: 8px;
+  }
+  .social_title {
+    font-size: 14px;
+  }
+  .close-icon svg {
+    width: 15px;
+    height: 15px;
+  }
+}
+@media (min-width: 311px) and (max-width: 550px) {
+  .social_media span {
+    font-size: 10px;
+  }
+}
+@media (max-width: 767px) {
+  .header_container .hotel_logo img {
+    width: 70px;
+  }
+}
+@media (min-width: 768px) {
+  .header_container .hotel_logo img {
+    width: 90px;
+  }
+}

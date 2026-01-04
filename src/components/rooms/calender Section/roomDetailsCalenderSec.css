@@ -1,0 +1,5 @@
+@media (max-width: 300px) {
+  .roomDetailsCalender_container .t-sec p {
+    font-size: 13px;
+  }
+}

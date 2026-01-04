@@ -1,0 +1,11 @@
+@media (max-width: 330px) {
+  .featuresSec_container h1 {
+    font-size: 17px;
+  }
+  .featuresSec_container img {
+    width: 50px;
+  }
+  .featuresSec_container span {
+    font-size: 12px;
+  }
+}

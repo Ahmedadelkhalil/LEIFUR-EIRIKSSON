@@ -1,0 +1,13 @@
+.leaflet-container {
+  margin: 0 20px;
+  height: 50vh;
+  border: 2px solid #afb17e;
+}
+@media (max-width: 300px) {
+  .contact-map-container .location-p-statement {
+    font-size: 11px;
+  }
+  .contact-map-container .map-copyright-statement {
+    font-size: 12px;
+  }
+}

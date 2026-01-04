@@ -1,0 +1,46 @@
+@import url("https://fonts.googleapis.com/css2?family=Cinzel+Decorative:wght@400;700;900&family=Josefin+Sans:wght@300;400;600;700&family=Niconne&family=Pattaya&display=swap");
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+html,
+body {
+  overflow-x: hidden !important;
+}
+/* CUSTOM SCROLL-BAR*/
+::-webkit-scrollbar {
+  width: 10px;
+}
+::-webkit-scrollbar-track {
+  background: #ededed;
+}
+::-webkit-scrollbar-thumb {
+  background: #7d7e5d;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #949670;
+}
+/* CUSTOM SLIDERS */
+.swiper-pagination-bullet-active {
+  background-color: #ffffff !important;
+}
+.swiper-button-next::after,
+.swiper-button-prev::after {
+  font-size: 25px !important;
+  color: #ffffff !important;
+  border: 1px solid #fff;
+  padding: 5px;
+  font-weight: bold;
+}
+.swiper-pagination-bullet {
+  border-radius: 0 !important;
+  -webkit-border-radius: 0 !important;
+  -moz-border-radius: 0 !important;
+  -ms-border-radius: 0 !important;
+  -o-border-radius: 0 !important;
+}

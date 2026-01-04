@@ -1,0 +1,36 @@
+.calender_container span input,
+.MuiInputAdornment-root button svg,
+.MuiInputBase-root input,
+.css-1jy569b-MuiFormLabel-root-MuiInputLabel-root.Mui-focused,
+.MuiTypography-root,
+.css-1e6y48t-MuiButtonBase-root-MuiButton-root {
+  color: #7d7e5d !important;
+}
+.MuiPickersCalendarHeader-root,
+.MuiButtonBase-root.Mui-selected {
+  background-color: #7d7e5d !important;
+}
+.MuiPickersCalendarHeader-root,
+.MuiPickersCalendarHeader-root svg {
+  color: #ffff !important;
+}
+.MuiOutlinedInput-notchedOutline,
+.css-o9k5xi-MuiInputBase-root-MuiOutlinedInput-root.Mui-focused
+  .MuiOutlinedInput-notchedOutline {
+  border: none !important;
+  border-bottom: 1px solid #7d7e5d !important;
+  border-radius: 0 !important;
+  -webkit-border-radius: 0 !important;
+  -moz-border-radius: 0 !important;
+  -ms-border-radius: 0 !important;
+  -o-border-radius: 0 !important;
+}
+.calender_container span input {
+  border: none;
+  outline: none;
+  width: 100% !important;
+  font-weight: 500;
+}
+.MuiTypography-root {
+  font-weight: bold;
+}

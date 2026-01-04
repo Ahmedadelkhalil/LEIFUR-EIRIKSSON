@@ -1,0 +1,14 @@
+.form_container select {
+  -webkit-appearance: none;
+  -moz-appearance: none;
+}
+.form_container input::placeholder,
+.form_container textarea::placeholder,
+.form_container select option {
+  color: #7d7e5d !important;
+}
+@media (max-width: 300px) {
+  .contactForm_container .form-p-statement {
+    font-size: 13px;
+  }
+}

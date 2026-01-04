@@ -1,0 +1,5 @@
+.roomDetailsSlider_container .swiper-button-next::after,
+.roomDetailsSlider_container .swiper-button-prev::after {
+  background-color: #8e8f78;
+  font-size: 20px !important;
+}

@@ -1,0 +1,42 @@
+/* EXTRA SMALL DEVICES */
+@media (max-width: 300px) {
+  .card-txt-section p {
+    font-size: 13px;
+  }
+}
+/* SMALL DEVICES */
+@media (min-width: 640px) {
+  .mainCard_container {
+    max-width: 500px;
+    margin: auto;
+  }
+  .mainCard_container img {
+    width: 600px;
+  }
+}
+/* MEDIUM DEVICES */
+@media (min-width: 768px) and (max-width: 900px) {
+  .mainCard_container {
+    max-width: 700px;
+  }
+  .mainCard_container img {
+    max-width: 400px;
+  }
+}
+@media (min-width: 901px) {
+  .mainCard_container {
+    max-width: 850px;
+  }
+  .mainCard_container img {
+    max-width: 450px;
+  }
+}
+/* LARGE DEVICES */
+@media (min-width: 1024px) {
+  .mainCard_container {
+    max-width: 1000px;
+  }
+  .mainCard_container img {
+    max-width: 550px;
+  }
+}

@@ -1,0 +1,52 @@
+.tours_container .tours_bg_img {
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: bottom;
+}
+.tours_container .tours_bg_img::after {
+  position: absolute;
+  content: "Amazing tours to enjoy Iceland";
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  background-color: rgba(87, 87, 66, 0.4);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #ffffff;
+  font-weight: 700;
+  font-family: "Cinzel Decorative";
+}
+/* EXTRA SMALL DEVICES */
+@media (max-width: 400px) {
+  .tours_container .tours_bg_img::after {
+    font-size: 11px;
+    letter-spacing: 1px;
+  }
+}
+@media (min-width: 401px) and (max-width: 639px) {
+  .tours_container .tours_bg_img::after {
+    font-size: 15px;
+    letter-spacing: 1px;
+  }
+}
+/* SMALL DEVICES */
+@media (min-width: 640px) {
+  .tours_container .tours_bg_img::after {
+    font-size: 17px;
+    letter-spacing: 1px;
+  }
+}
+/* MEDIUM DEVICES */
+@media (min-width: 768px) {
+  .tours_container .tours_bg_img::after {
+    font-size: 25px;
+  }
+}
+/* LARGE DEVICES */
+@media (min-width: 1024px) {
+  .tours_container .tours_bg_img::after {
+    font-size: 30px;
+  }
+}

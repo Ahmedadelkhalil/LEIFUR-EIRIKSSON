@@ -1,0 +1,8 @@
+@media (max-width: 300px) {
+  .quickContacts_container h1 {
+    font-size: 25px;
+  }
+  .contact-p-statement {
+    font-size: 11px;
+  }
+}
