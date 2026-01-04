@@ -1,0 +1,338 @@
+{
+  "bar_slider_imgs": [
+    {
+      "img": "https://github.com/DATA-Container-100/hotel-data-imgs/blob/main/bar_slider_01.jpg?raw=true"
+    },
+    {
+      "img": "https://github.com/DATA-Container-100/hotel-data-imgs/blob/main/bar_slider_02.jpg?raw=true"
+    },
+    {
+      "img": "https://github.com/DATA-Container-100/hotel-data-imgs/blob/main/bar_slider_03.jpg?raw=true"
+    },
+    {
+      "img": "https://github.com/DATA-Container-100/hotel-data-imgs/blob/main/bar_slider_04.jpg?raw=true"
+    },
+    {
+      "img": "https://github.com/DATA-Container-100/hotel-data-imgs/blob/main/bar_slider_05.jpg?raw=true"
+    },
+    {
+      "img": "https://github.com/DATA-Container-100/hotel-data-imgs/blob/main/bar_slider_06.jpg?raw=true"
+    }
+  ],
+  "main_Slider_Imgs": [
+    {
+      "img": "https://raw.githubusercontent.com/DATA-Container-100/hotel-data-imgs/3db3eb8a2cbfd0e7169dbf84e62d1d484f46e0c4/double_slider_01.jpg"
+    },
+    {
+      "img": "https://github.com/DATA-Container-100/hotel-data-imgs/blob/main/home_slider_02.jpg?raw=true"
+    },
+    {
+      "img": "https://github.com/DATA-Container-100/hotel-data-imgs/blob/main/home_slider_03.jpg?raw=true"
+    },
+    {
+      "img": "https://raw.githubusercontent.com/DATA-Container-100/hotel-data-imgs/3db3eb8a2cbfd0e7169dbf84e62d1d484f46e0c4/double_slider_02.jpg"
+    },
+    {
+      "img": "https://github.com/DATA-Container-100/hotel-data-imgs/blob/main/home_slider_05.jpg?raw=true"
+    },
+    {
+      "img": "https://github.com/DATA-Container-100/hotel-data-imgs/blob/main/home_slider_06.jpg?raw=true"
+    },
+    {
+      "img": "https://github.com/DATA-Container-100/hotel-data-imgs/blob/main/home_slider_07.jpg?raw=true"
+    },
+    {
+      "img": "https://github.com/DATA-Container-100/hotel-data-imgs/blob/main/home_slider_08.jpg?raw=true"
+    }
+  ],
+  "quick_contacts": [
+    {
+      "department": "Front Desk",
+      "phone": "+354 562 0800",
+      "email": "info@hotelleifur.is"
+    },
+    {
+      "department": "Hotel Group Reservations",
+      "phone": "+354 562 0800",
+      "email": "manager@hotelleifur.is"
+    },
+    {
+      "department": "Events & Conferences Room",
+      "phone": "+354 562 0800",
+      "email": "manager@hotelleifur.is"
+    }
+  ],
+  "service_Info": [
+    {
+      "img": "https://raw.githubusercontent.com/DATA-Container-100/hotel-data-imgs/main/sec_08_1.png",
+      "header": "Perks & Spaces",
+      "paragraph": "Check out our extras that will make your stay even more enjoyable.",
+      "btn": "learn more",
+      "path": "/About"
+    },
+    {
+      "img": "https://raw.githubusercontent.com/DATA-Container-100/hotel-data-imgs/main/sec_08_2.png",
+      "header": "Our Services",
+      "paragraph": "try figure out and Enjoy these benefits during your wonderful stay.",
+      "btn": "learn more",
+      "path": "/About"
+    },
+    {
+      "img": "https://raw.githubusercontent.com/DATA-Container-100/hotel-data-imgs/main/sec_08_3.png",
+      "header": "Cancellation Policy",
+      "paragraph": "We offer you the best policy available compared to our sales partners.",
+      "btn": "learn more",
+      "path": "/About"
+    }
+  ],
+  "testimonials": [
+    {
+      "customer": "Ahmed Adel",
+      "img": "https://raw.githubusercontent.com/AhmedKhalilFED/Dashboard-Imgs/42071d7c166c65ceaf6535d78b412dce1e6fc818/Man_01.jpg",
+      "quote": "A must visit/stay in Reykjavik"
+    },
+    {
+      "customer": "Olivia P.",
+      "img": "https://raw.githubusercontent.com/AhmedKhalilFED/Dashboard-Imgs/42071d7c166c65ceaf6535d78b412dce1e6fc818/Girl_01.jpg",
+
+      "quote": "Relaxed, comfortable hotel in a great location"
+    },
+    {
+      "customer": "Gianna Oxby",
+      "img": "https://raw.githubusercontent.com/AhmedKhalilFED/Dashboard-Imgs/42071d7c166c65ceaf6535d78b412dce1e6fc818/Girl_03.jpg",
+      "quote": "Most Convenient Location in Reykjavik"
+    }
+  ],
+  "room_Details": [
+    {
+      "category": "Economy",
+      "main_Section_Header": "Economy Suite",
+      "main_Section_Img": "https://github.com/DATA-Container-100/hotel-data-imgs/blob/main/economy-main.jpg?raw=true",
+      "room_Section_bg": "https://github.com/DATA-Container-100/hotel-data-imgs/blob/main/economy-main.jpg?raw=true",
+      "main_Section_desc": "Travelling on a budget? Our Economy rooms are housed on the ground floor in both buildings, not offering a view. They’re however just as cleverly designed as the other rooms - meaning you’re getting a lot out of your Icelandic króna.",
+      "services_And_Amenities": [
+        {
+          "feature_img": "https://github.com/DATA-Container-100/hotel-data-imgs/blob/main/wifi.png?raw=true",
+          "feature_name": "Free WiFi"
+        },
+        {
+          "feature_img": "https://github.com/DATA-Container-100/hotel-data-imgs/blob/main/INROOM_TV.png?raw=true",
+          "feature_name": "TV"
+        },
+        {
+          "feature_img": "https://github.com/DATA-Container-100/hotel-data-imgs/blob/main/DAILY_HOUSEKEPPING.png?raw=true",
+          "feature_name": "housekeeping"
+        },
+        {
+          "feature_img": "https://github.com/DATA-Container-100/hotel-data-imgs/blob/main/HAIRDRYER.png?raw=true",
+          "feature_name": "Hairdryer"
+        },
+        {
+          "feature_img": "https://github.com/DATA-Container-100/hotel-data-imgs/blob/main/heatingsystem.png?raw=true",
+          "feature_name": "Heating"
+        },
+        {
+          "feature_img": "https://github.com/DATA-Container-100/hotel-data-imgs/blob/main/TOWELS.png?raw=true",
+          "feature_name": "Fresh towels"
+        },
+        {
+          "feature_img": "https://github.com/DATA-Container-100/hotel-data-imgs/blob/main/SHAMPOO.png?raw=true",
+          "feature_name": "shower gel"
+        },
+        {
+          "feature_img": "https://github.com/DATA-Container-100/hotel-data-imgs/blob/main/breakfast_p_request.png?raw=true",
+          "feature_name": "Breakfast"
+        },
+        {
+          "feature_img": "https://github.com/DATA-Container-100/hotel-data-imgs/blob/main/tea.png?raw=true",
+          "feature_name": "Coffee & tea"
+        }
+      ],
+      "slider": [
+        {
+          "slider_img": "https://github.com/DATA-Container-100/hotel-data-imgs/blob/main/Economy_slider_01.jpg?raw=true"
+        },
+        {
+          "slider_img": "https://github.com/DATA-Container-100/hotel-data-imgs/blob/main/Economy_slider_02.jpg?raw=true"
+        },
+        {
+          "slider_img": "https://github.com/DATA-Container-100/hotel-data-imgs/blob/main/Economy_slider_06.jpg?raw=true"
+        },
+        {
+          "slider_img": "https://github.com/DATA-Container-100/hotel-data-imgs/blob/main/Economy_slider_08.jpg?raw=true"
+        }
+      ]
+    },
+    {
+      "category": "Single",
+      "main_Section_Header": "Single Suite",
+      "main_Section_Img": "https://github.com/DATA-Container-100/hotel-data-imgs/blob/main/single-main.jpg?raw=true",
+      "room_Section_bg": "https://github.com/DATA-Container-100/hotel-data-imgs/blob/main/single-main.jpg?raw=true",
+      "main_Section_desc": "Our Single rooms are ideal for solo stays. Each Single offers a private bathroom with a shower, a comfortable bed and breakfast waiting in the lounge daily.",
+      "services_And_Amenities": [
+        {
+          "feature_img": "https://github.com/DATA-Container-100/hotel-data-imgs/blob/main/wifi.png?raw=true",
+          "feature_name": "Free WiFi"
+        },
+        {
+          "feature_img": "https://github.com/DATA-Container-100/hotel-data-imgs/blob/main/INROOM_TV.png?raw=true",
+          "feature_name": "TV"
+        },
+        {
+          "feature_img": "https://github.com/DATA-Container-100/hotel-data-imgs/blob/main/DAILY_HOUSEKEPPING.png?raw=true",
+          "feature_name": "housekeeping"
+        },
+        {
+          "feature_img": "https://github.com/DATA-Container-100/hotel-data-imgs/blob/main/HAIRDRYER.png?raw=true",
+          "feature_name": "Hairdryer"
+        },
+        {
+          "feature_img": "https://github.com/DATA-Container-100/hotel-data-imgs/blob/main/heatingsystem.png?raw=true",
+          "feature_name": "Heating"
+        },
+        {
+          "feature_img": "https://github.com/DATA-Container-100/hotel-data-imgs/blob/main/TOWELS.png?raw=true",
+          "feature_name": "Fresh towels"
+        },
+        {
+          "feature_img": "https://github.com/DATA-Container-100/hotel-data-imgs/blob/main/SHAMPOO.png?raw=true",
+          "feature_name": "shower gel"
+        },
+        {
+          "feature_img": "https://github.com/DATA-Container-100/hotel-data-imgs/blob/main/breakfast_p_request.png?raw=true",
+          "feature_name": "Breakfast"
+        },
+        {
+          "feature_img": "https://github.com/DATA-Container-100/hotel-data-imgs/blob/main/tea.png?raw=true",
+          "feature_name": "Coffee & tea"
+        }
+      ],
+      "slider": [
+        {
+          "slider_img": "https://github.com/DATA-Container-100/hotel-data-imgs/blob/main/single_slider_01.jpg?raw=true"
+        },
+        {
+          "slider_img": "https://github.com/DATA-Container-100/hotel-data-imgs/blob/main/single_slider_03.jpg?raw=true"
+        },
+        {
+          "slider_img": "https://github.com/DATA-Container-100/hotel-data-imgs/blob/main/single_slider_05.jpg?raw=true"
+        }
+      ]
+    },
+    {
+      "category": "Double",
+      "main_Section_Header": "Double Suite",
+      "main_Section_Img": "https://github.com/DATA-Container-100/hotel-data-imgs/blob/main/double-main.jpg?raw=true",
+      "room_Section_bg": "https://github.com/DATA-Container-100/hotel-data-imgs/blob/main/double-main.jpg?raw=true",
+      "main_Section_desc": "Each Double is unique and individually curated to feel fun, cosy and welcoming. And it goes without saying - daily breakfast is complimentary with every room.",
+      "services_And_Amenities": [
+        {
+          "feature_img": "https://github.com/DATA-Container-100/hotel-data-imgs/blob/main/wifi.png?raw=true",
+          "feature_name": "Free WiFi"
+        },
+        {
+          "feature_img": "https://github.com/DATA-Container-100/hotel-data-imgs/blob/main/INROOM_TV.png?raw=true",
+          "feature_name": "TV"
+        },
+        {
+          "feature_img": "https://github.com/DATA-Container-100/hotel-data-imgs/blob/main/DAILY_HOUSEKEPPING.png?raw=true",
+          "feature_name": "housekeeping"
+        },
+        {
+          "feature_img": "https://github.com/DATA-Container-100/hotel-data-imgs/blob/main/HAIRDRYER.png?raw=true",
+          "feature_name": "Hairdryer"
+        },
+        {
+          "feature_img": "https://github.com/DATA-Container-100/hotel-data-imgs/blob/main/heatingsystem.png?raw=true",
+          "feature_name": "Heating"
+        },
+        {
+          "feature_img": "https://github.com/DATA-Container-100/hotel-data-imgs/blob/main/TOWELS.png?raw=true",
+          "feature_name": "Fresh towels"
+        },
+        {
+          "feature_img": "https://github.com/DATA-Container-100/hotel-data-imgs/blob/main/SHAMPOO.png?raw=true",
+          "feature_name": "shower gel"
+        },
+        {
+          "feature_img": "https://github.com/DATA-Container-100/hotel-data-imgs/blob/main/breakfast_p_request.png?raw=true",
+          "feature_name": "Breakfast"
+        },
+        {
+          "feature_img": "https://github.com/DATA-Container-100/hotel-data-imgs/blob/main/tea.png?raw=true",
+          "feature_name": "Coffee & tea"
+        }
+      ],
+      "slider": [
+        {
+          "slider_img": "https://github.com/DATA-Container-100/hotel-data-imgs/blob/main/double_slider_01.jpg?raw=true"
+        },
+        {
+          "slider_img": "https://github.com/DATA-Container-100/hotel-data-imgs/blob/main/double_slider_06.jpg?raw=true"
+        },
+        {
+          "slider_img": "https://github.com/DATA-Container-100/hotel-data-imgs/blob/main/double_slider_12.jpg?raw=true"
+        }
+      ]
+    },
+    {
+      "category": "Church",
+      "main_Section_Header": "Church View Suite",
+      "main_Section_Img": "https://github.com/DATA-Container-100/hotel-data-imgs/blob/main/church-main.jpg?raw=true",
+      "room_Section_bg": "https://github.com/DATA-Container-100/hotel-data-imgs/blob/main/church-main.jpg?raw=true",
+      "main_Section_desc": "Our Church View Rooms are nothing short of idyllic, for any length of stay. Each room is perfectly structured from form to function.",
+      "services_And_Amenities": [
+        {
+          "feature_img": "https://github.com/DATA-Container-100/hotel-data-imgs/blob/main/wifi.png?raw=true",
+          "feature_name": "Free WiFi"
+        },
+        {
+          "feature_img": "https://github.com/DATA-Container-100/hotel-data-imgs/blob/main/INROOM_TV.png?raw=true",
+          "feature_name": "TV"
+        },
+        {
+          "feature_img": "https://github.com/DATA-Container-100/hotel-data-imgs/blob/main/DAILY_HOUSEKEPPING.png?raw=true",
+          "feature_name": "housekeeping"
+        },
+        {
+          "feature_img": "https://github.com/DATA-Container-100/hotel-data-imgs/blob/main/HAIRDRYER.png?raw=true",
+          "feature_name": "Hairdryer"
+        },
+        {
+          "feature_img": "https://github.com/DATA-Container-100/hotel-data-imgs/blob/main/heatingsystem.png?raw=true",
+          "feature_name": "Heating"
+        },
+        {
+          "feature_img": "https://github.com/DATA-Container-100/hotel-data-imgs/blob/main/TOWELS.png?raw=true",
+          "feature_name": "Fresh towels"
+        },
+        {
+          "feature_img": "https://github.com/DATA-Container-100/hotel-data-imgs/blob/main/SHAMPOO.png?raw=true",
+          "feature_name": "shower gel"
+        },
+        {
+          "feature_img": "https://github.com/DATA-Container-100/hotel-data-imgs/blob/main/breakfast_p_request.png?raw=true",
+          "feature_name": "Breakfast"
+        },
+        {
+          "feature_img": "https://github.com/DATA-Container-100/hotel-data-imgs/blob/main/tea.png?raw=true",
+          "feature_name": "Coffee & tea"
+        }
+      ],
+      "slider": [
+        {
+          "slider_img": "https://github.com/DATA-Container-100/hotel-data-imgs/blob/main/church_slider_01.jpg?raw=true"
+        },
+        {
+          "slider_img": "https://github.com/DATA-Container-100/hotel-data-imgs/blob/main/church_slider_04.jpg?raw=true"
+        },
+        {
+          "slider_img": "https://github.com/DATA-Container-100/hotel-data-imgs/blob/main/church_slider_08.jpg?raw=true"
+        },
+        {
+          "slider_img": "https://github.com/DATA-Container-100/hotel-data-imgs/blob/main/church_slider_11.jpg?raw=true"
+        }
+      ]
+    }
+  ]
+}

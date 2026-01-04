@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/256.ec9f98b3.chunk.css","mappings":"AAAA,yBACE,uBACE,aACF,CACA,2BACE,cACF,CACF","sources":["global/404/notFound.css"],"sourcesContent":["@media (max-width: 300px) {\n  .notFound_container h4 {\n    font-size: 8px;\n  }\n  .notFound_container button {\n    font-size: 10px;\n  }\n}\n"],"names":[],"sourceRoot":""}
