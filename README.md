@@ -1,5 +1,5 @@
 
-# React.JS Hotel Landing Page
+# LEIFUR EIRÍKSSON React.JS Hotel App
 
 LEIFUR EIRÍKSSON Hotel APP By Ahmed Adel.<br/>
 - Original Website [HERE](https://www.hotelleifur.is/).
